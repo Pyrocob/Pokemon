@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pyrocob\\source\\repos\\Pokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAD7259-9C00-4AE5-B47A-A32B074264BD}|Pokemon\\Pokemon.vcxproj|C:\\Users\\Pyrocob\\source\\repos\\Pokemon\\Pokemon\\Pokemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBAD7259-9C00-4AE5-B47A-A32B074264BD}|Pokemon\\Pokemon.vcxproj|solutionrelative:Pokemon\\Pokemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pokemon.cpp",
+              "DocumentMoniker": "C:\\Users\\Pyrocob\\source\\repos\\Pokemon\\Pokemon\\Pokemon.cpp",
+              "RelativeDocumentMoniker": "Pokemon\\Pokemon.cpp",
+              "ToolTip": "C:\\Users\\Pyrocob\\source\\repos\\Pokemon\\Pokemon\\Pokemon.cpp",
+              "RelativeToolTip": "Pokemon\\Pokemon.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-14T19:41:35.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
